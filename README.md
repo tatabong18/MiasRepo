@@ -5,6 +5,6 @@
 - 📫 How to reach me anyinke@gmail.com ...
 
 <!---
-tatabong18/tatabong18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+miatabong/miatabong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
